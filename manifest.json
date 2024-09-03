@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Custom New Tab",
+    "version": "1.0",
+    "description": "Set a custom homepage for your new tab.",
+    "permissions": [
+      "storage"
+    ],
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "options_page": "options.html",
+    "icons": {
+      "128": "images/new_tab.128.png"
+    }
+  }
