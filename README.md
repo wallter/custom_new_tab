@@ -2,6 +2,27 @@
 
 This Chrome extension allows you to set a custom homepage for your new tab. By default, it redirects to [https://chat.openai.com/chat](https://chat.openai.com/chat), but you can change the URL through the extension's options page.
 
+## Don't want an extention? Use a default search engine
+
+### Set ChatGPT as Your Default Search Engine in Chrome
+
+1. **Open Chrome Settings:**
+   - Go to `chrome://settings/search`.
+
+2. **Manage Search Engines:**
+   - Click **Manage search engines and site search**.
+
+3. **Add ChatGPT:**
+   - Click **Add** and enter:
+     - **Search engine:** `ChatGPT`
+     - **Keyword:** `chatgpt`
+     - **URL:** `https://chat.openai.com/chat?q=%s`
+
+4. **Make Default:**
+   - Find `ChatGPT` in the list, click the three dots, and select **Make default**.
+
+Now, typing queries in the address bar will redirect to ChatGPT.
+
 ## Features
 
 - **Customizable New Tab:** Set any URL as your new tab homepage.
