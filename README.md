@@ -20,9 +20,9 @@ _Description: This page shows the default redirection in action, where the exten
 
 ![Options Page](images/options_page.png)
 
-_Description: The options page allows you to set a custom URL for your new tab._
+_Description: The options page lets you set a custom URL for your new tab._
 
-## Installation
+## Installation (developer)
 
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
