@@ -23,7 +23,7 @@ When you set a custom URL as your new tab homepage, this information is stored l
 
 ## Third-Party Links
 
-If you choose to redirect your new tab to a third-party website, such as [https://chat.openai.com](https://chat.openai.com), please note that those websites may have their own privacy policies. We recommend reviewing the privacy policies of any third-party websites you visit.
+If you choose to redirect your new tab to a third-party website, such as [https://chat.openai.com](https://chat.openai.com), please note that those websites may have their own privacy policies. We would recommend that you review the privacy policies of any third-party websites you visit.
 
 ## Changes to This Policy
 
@@ -31,6 +31,6 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any questions or concerns about this privacy policy or the use of your data, please feel free to contact us at [your email/contact information].
+If you have any questions or concerns about this privacy policy or the use of your data, please feel free to contact us at tyler dot r dot wall at gmail dot com.
 
 _Last Updated: 09.04.2024_
