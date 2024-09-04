@@ -44,14 +44,29 @@ _Description: The options page lets you set a custom URL for your new tab._
 2. **Manage Search Engines:**
    - Click **Manage search engines and site search**.
 
+![Manage Search Engine Screenshot](https://github.com/user-attachments/assets/fe4e1f08-c811-45e4-9b22-7d8df02ffd9d)
+
+3. **Add a new Search Site**
+   - Click the **Add** button
+
+![Add Search Site Screenshot](https://github.com/user-attachments/assets/b66b1a81-772b-4764-8dee-b5d8367c35d8)
+
 3. **Add ChatGPT:**
-   - Click **Add** and enter:
+   - After Clicking **Add** and enter:
      - **Search engine:** `ChatGPT`
      - **Keyword:** `chatgpt`
      - **URL:** `https://chat.openai.com/chat?q=%s`
 
+![Add Chat GPT Screenshot](https://github.com/user-attachments/assets/e28c5cd9-dae1-44d8-9f8d-5c599ab53a85)
+
+
 4. **Make Default:**
-   - Find `ChatGPT` in the list, click the three dots, and select **Make default**.
+   - Find `ChatGPT` in the list,
+   - Click the three dots, and
+   - select **Make default**.
+  
+![Make ChatGPT the default](https://github.com/user-attachments/assets/d3f86983-0bb9-4ffe-914c-ca08f2e32689)
+
 
 Now, typing queries in the address bar will redirect to ChatGPT.
 
