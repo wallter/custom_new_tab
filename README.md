@@ -74,6 +74,14 @@ _Description: The options page allows you to set a custom URL for your new tab._
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please make sure your code is well-documented and follows the existing coding style.
 
+## Privacy
+
+This Chrome extension does not collect, store, or share any personal data, browsing history, or user information. All data related to your custom new tab settings is stored locally on your device and is not transmitted to any external servers. 
+
+The only permissions required are those necessary for the extension to function, such as modifying your new tab page. We respect your privacy and ensure that no data is shared with third parties.
+
+For more details, please refer to the [PRIVACY.md](./PRIVACY.md) file.
+
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENCE.md](./LICENSE.md) file for more details.
