@@ -102,3 +102,17 @@ This project is licensed under the MIT License. See the [LICENCE.md](./LICENSE.m
 
 
 Now, typing queries in the address bar will redirect to ChatGPT.
+
+### Other AI Tools
+Here’s a table listing the most popular AI tools and their search URLs:
+
+| **AI Tool**            | **Search URL**                                    |
+|------------------------|---------------------------------------------------|
+| ChatGPT (OpenAI)        | `https://chat.openai.com/chat?q=%s`               |
+| Google Gemini           | `https://gemini.google.com/?q=%s`                 |
+| Jasper AI               | `https://www.jasper.ai/search?q=%s`               |
+| Runway ML               | `https://runwayml.com/?s=%s`                      |
+| Claude (Anthropic)      | `https://www.anthropic.com/?q=%s`                 |
+| Copy.ai                 | `https://app.copy.ai/search?q=%s`                 |
+
+This table provides a concise overview of AI tools with their corresponding search URLs.
